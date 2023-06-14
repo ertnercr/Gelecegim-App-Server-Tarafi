@@ -1,0 +1,4380 @@
+[
+  {
+    "value": 1,
+    "il": "ADANA",
+    "ilceler": [
+      {
+        "value": 1757,
+        "ilce_adi": "ALADAĞ"
+      },
+      {
+        "value": 1219,
+        "ilce_adi": "CEYHAN"
+      },
+      {
+        "value": 2033,
+        "ilce_adi": "ÇUKUROVA"
+      },
+      {
+        "value": 1329,
+        "ilce_adi": "FEKE"
+      },
+      {
+        "value": 1806,
+        "ilce_adi": "İMAMOĞLU"
+      },
+      {
+        "value": 1437,
+        "ilce_adi": "KARAİSALI"
+      },
+      {
+        "value": 1443,
+        "ilce_adi": "KARATAŞ"
+      },
+      {
+        "value": 1486,
+        "ilce_adi": "KOZAN"
+      },
+      {
+        "value": 1580,
+        "ilce_adi": "POZANTI"
+      },
+      {
+        "value": 1588,
+        "ilce_adi": "SAİMBEYLİ"
+      },
+      {
+        "value": 2032,
+        "ilce_adi": "SARIÇAM"
+      },
+      {
+        "value": 1104,
+        "ilce_adi": "SEYHAN"
+      },
+      {
+        "value": 1687,
+        "ilce_adi": "TUFANBEYLİ"
+      },
+      {
+        "value": 1734,
+        "ilce_adi": "YUMURTALIK"
+      },
+      {
+        "value": 1748,
+        "ilce_adi": "YÜREĞİR"
+      }
+    ]
+  },
+  {
+    "value": 2,
+    "il": "ADIYAMAN",
+    "ilceler": [
+      {
+        "value": 1182,
+        "ilce_adi": "BESNİ"
+      },
+      {
+        "value": 1246,
+        "ilce_adi": "ÇELİKHAN"
+      },
+      {
+        "value": 1347,
+        "ilce_adi": "GERGER"
+      },
+      {
+        "value": 1354,
+        "ilce_adi": "GÖLBAŞI"
+      },
+      {
+        "value": 1425,
+        "ilce_adi": "KAHTA"
+      },
+      {
+        "value": 1105,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1592,
+        "ilce_adi": "SAMSAT"
+      },
+      {
+        "value": 1985,
+        "ilce_adi": "SİNCİK"
+      },
+      {
+        "value": 1989,
+        "ilce_adi": "TUT"
+      }
+    ]
+  },
+  {
+    "value": 3,
+    "il": "AFYONKARAHİSAR",
+    "ilceler": [
+      {
+        "value": 1771,
+        "ilce_adi": "BAŞMAKÇI"
+      },
+      {
+        "value": 1773,
+        "ilce_adi": "BAYAT"
+      },
+      {
+        "value": 1200,
+        "ilce_adi": "BOLVADİN"
+      },
+      {
+        "value": 1239,
+        "ilce_adi": "ÇAY"
+      },
+      {
+        "value": 1906,
+        "ilce_adi": "ÇOBANLAR"
+      },
+      {
+        "value": 1267,
+        "ilce_adi": "DAZKIRI"
+      },
+      {
+        "value": 1281,
+        "ilce_adi": "DİNAR"
+      },
+      {
+        "value": 1306,
+        "ilce_adi": "EMİRDAĞ"
+      },
+      {
+        "value": 1923,
+        "ilce_adi": "EVCİLER"
+      },
+      {
+        "value": 1944,
+        "ilce_adi": "HOCALAR"
+      },
+      {
+        "value": 1404,
+        "ilce_adi": "İHSANİYE"
+      },
+      {
+        "value": 1809,
+        "ilce_adi": "İSCEHİSAR"
+      },
+      {
+        "value": 1961,
+        "ilce_adi": "KIZILÖREN"
+      },
+      {
+        "value": 1108,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1594,
+        "ilce_adi": "SANDIKLI"
+      },
+      {
+        "value": 1626,
+        "ilce_adi": "SİNANPAŞA"
+      },
+      {
+        "value": 1664,
+        "ilce_adi": "ŞUHUT"
+      },
+      {
+        "value": 1639,
+        "ilce_adi": "SULTANDAĞI"
+      }
+    ]
+  },
+  {
+    "value": 4,
+    "il": "AĞRI",
+    "ilceler": [
+      {
+        "value": 1283,
+        "ilce_adi": "DİYADİN"
+      },
+      {
+        "value": 1287,
+        "ilce_adi": "DOĞUBAYAZIT"
+      },
+      {
+        "value": 1301,
+        "ilce_adi": "ELEŞKİRT"
+      },
+      {
+        "value": 1379,
+        "ilce_adi": "HAMUR"
+      },
+      {
+        "value": 1111,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1568,
+        "ilce_adi": "PATNOS"
+      },
+      {
+        "value": 1667,
+        "ilce_adi": "TAŞLIÇAY"
+      },
+      {
+        "value": 1691,
+        "ilce_adi": "TUTAK"
+      }
+    ]
+  },
+  {
+    "value": 68,
+    "il": "AKSARAY",
+    "ilceler": [
+      {
+        "value": 1860,
+        "ilce_adi": "AĞAÇÖREN"
+      },
+      {
+        "value": 1921,
+        "ilce_adi": "ESKİL"
+      },
+      {
+        "value": 1932,
+        "ilce_adi": "GÜLAĞAÇ"
+      },
+      {
+        "value": 1861,
+        "ilce_adi": "GÜZELYURT"
+      },
+      {
+        "value": 1120,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1557,
+        "ilce_adi": "ORTAKÖY"
+      },
+      {
+        "value": 1866,
+        "ilce_adi": "SARIYAHŞİ"
+      },
+      {
+        "value": 2106,
+        "ilce_adi": "SULTANHANI"
+      }
+    ]
+  },
+  {
+    "value": 5,
+    "il": "AMASYA",
+    "ilceler": [
+      {
+        "value": 1363,
+        "ilce_adi": "GÖYNÜCEK"
+      },
+      {
+        "value": 1368,
+        "ilce_adi": "GÜMÜŞHACIKÖY"
+      },
+      {
+        "value": 1938,
+        "ilce_adi": "HAMAMÖZÜ"
+      },
+      {
+        "value": 1134,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1524,
+        "ilce_adi": "MERZİFON"
+      },
+      {
+        "value": 1641,
+        "ilce_adi": "SULUOVA"
+      },
+      {
+        "value": 1668,
+        "ilce_adi": "TAŞOVA"
+      }
+    ]
+  },
+  {
+    "value": 6,
+    "il": "ANKARA",
+    "ilceler": [
+      {
+        "value": 1872,
+        "ilce_adi": "AKYURT"
+      },
+      {
+        "value": 1130,
+        "ilce_adi": "ALTINDAĞ"
+      },
+      {
+        "value": 1157,
+        "ilce_adi": "AYAŞ"
+      },
+      {
+        "value": 1167,
+        "ilce_adi": "BALA"
+      },
+      {
+        "value": 1187,
+        "ilce_adi": "BEYPAZARI"
+      },
+      {
+        "value": 1227,
+        "ilce_adi": "ÇAMLIDERE"
+      },
+      {
+        "value": 1231,
+        "ilce_adi": "ÇANKAYA"
+      },
+      {
+        "value": 1260,
+        "ilce_adi": "ÇUBUK"
+      },
+      {
+        "value": 1302,
+        "ilce_adi": "ELMADAĞ"
+      },
+      {
+        "value": 1922,
+        "ilce_adi": "ETİMESGUT"
+      },
+      {
+        "value": 1924,
+        "ilce_adi": "EVREN"
+      },
+      {
+        "value": 1744,
+        "ilce_adi": "GÖLBAŞI"
+      },
+      {
+        "value": 1365,
+        "ilce_adi": "GÜDÜL"
+      },
+      {
+        "value": 1387,
+        "ilce_adi": "HAYMANA"
+      },
+      {
+        "value": 1815,
+        "ilce_adi": "KAHRAMANKAZAN"
+      },
+      {
+        "value": 1427,
+        "ilce_adi": "KALECİK"
+      },
+      {
+        "value": 1745,
+        "ilce_adi": "KEÇİÖREN"
+      },
+      {
+        "value": 1473,
+        "ilce_adi": "KIZILCAHAMAM"
+      },
+      {
+        "value": 1746,
+        "ilce_adi": "MAMAK"
+      },
+      {
+        "value": 1539,
+        "ilce_adi": "NALLIHAN"
+      },
+      {
+        "value": 1578,
+        "ilce_adi": "POLATLI"
+      },
+      {
+        "value": 2034,
+        "ilce_adi": "PURSAKLAR"
+      },
+      {
+        "value": 1658,
+        "ilce_adi": "ŞEREFLİKOÇHİSAR"
+      },
+      {
+        "value": 1747,
+        "ilce_adi": "SİNCAN"
+      },
+      {
+        "value": 1723,
+        "ilce_adi": "YENİMAHALLE"
+      }
+    ]
+  },
+  {
+    "value": 7,
+    "il": "ANTALYA",
+    "ilceler": [
+      {
+        "value": 1121,
+        "ilce_adi": "AKSEKİ"
+      },
+      {
+        "value": 2035,
+        "ilce_adi": "AKSU"
+      },
+      {
+        "value": 1126,
+        "ilce_adi": "ALANYA"
+      },
+      {
+        "value": 1811,
+        "ilce_adi": "DEMRE"
+      },
+      {
+        "value": 2036,
+        "ilce_adi": "DÖŞEMEALTI"
+      },
+      {
+        "value": 1303,
+        "ilce_adi": "ELMALI"
+      },
+      {
+        "value": 1333,
+        "ilce_adi": "FİNİKE"
+      },
+      {
+        "value": 1337,
+        "ilce_adi": "GAZİPAŞA"
+      },
+      {
+        "value": 1370,
+        "ilce_adi": "GÜNDOĞMUŞ"
+      },
+      {
+        "value": 1946,
+        "ilce_adi": "İBRADI"
+      },
+      {
+        "value": 1451,
+        "ilce_adi": "KAŞ"
+      },
+      {
+        "value": 1959,
+        "ilce_adi": "KEMER"
+      },
+      {
+        "value": 2037,
+        "ilce_adi": "KEPEZ"
+      },
+      {
+        "value": 2038,
+        "ilce_adi": "KONYAALTI"
+      },
+      {
+        "value": 1483,
+        "ilce_adi": "KORKUTELİ"
+      },
+      {
+        "value": 1492,
+        "ilce_adi": "KUMLUCA"
+      },
+      {
+        "value": 1512,
+        "ilce_adi": "MANAVGAT"
+      },
+      {
+        "value": 2039,
+        "ilce_adi": "MURATPAŞA"
+      },
+      {
+        "value": 1616,
+        "ilce_adi": "SERİK"
+      }
+    ]
+  },
+  {
+    "value": 75,
+    "il": "ARDAHAN",
+    "ilceler": [
+      {
+        "value": 1252,
+        "ilce_adi": "ÇILDIR"
+      },
+      {
+        "value": 2008,
+        "ilce_adi": "DAMAL"
+      },
+      {
+        "value": 1356,
+        "ilce_adi": "GÖLE"
+      },
+      {
+        "value": 1380,
+        "ilce_adi": "HANAK"
+      },
+      {
+        "value": 1144,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1579,
+        "ilce_adi": "POSOF"
+      }
+    ]
+  },
+  {
+    "value": 8,
+    "il": "ARTVİN",
+    "ilceler": [
+      {
+        "value": 1145,
+        "ilce_adi": "ARDANUÇ"
+      },
+      {
+        "value": 1147,
+        "ilce_adi": "ARHAVİ"
+      },
+      {
+        "value": 1202,
+        "ilce_adi": "BORÇKA"
+      },
+      {
+        "value": 1395,
+        "ilce_adi": "HOPA"
+      },
+      {
+        "value": 2105,
+        "ilce_adi": "KEMALPAŞA"
+      },
+      {
+        "value": 1152,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1828,
+        "ilce_adi": "MURGUL"
+      },
+      {
+        "value": 1653,
+        "ilce_adi": "ŞAVŞAT"
+      },
+      {
+        "value": 1736,
+        "ilce_adi": "YUSUFELİ"
+      }
+    ]
+  },
+  {
+    "value": 9,
+    "il": "AYDIN",
+    "ilceler": [
+      {
+        "value": 1206,
+        "ilce_adi": "BOZDOĞAN"
+      },
+      {
+        "value": 1781,
+        "ilce_adi": "BUHARKENT"
+      },
+      {
+        "value": 1256,
+        "ilce_adi": "ÇİNE"
+      },
+      {
+        "value": 2000,
+        "ilce_adi": "DİDİM"
+      },
+      {
+        "value": 2076,
+        "ilce_adi": "EFELER"
+      },
+      {
+        "value": 1348,
+        "ilce_adi": "GERMENCİK"
+      },
+      {
+        "value": 1807,
+        "ilce_adi": "İNCİRLİOVA"
+      },
+      {
+        "value": 1435,
+        "ilce_adi": "KARACASU"
+      },
+      {
+        "value": 1957,
+        "ilce_adi": "KARPUZLU"
+      },
+      {
+        "value": 1479,
+        "ilce_adi": "KOÇARLI"
+      },
+      {
+        "value": 1968,
+        "ilce_adi": "KÖŞK"
+      },
+      {
+        "value": 1497,
+        "ilce_adi": "KUŞADASI"
+      },
+      {
+        "value": 1498,
+        "ilce_adi": "KUYUCAK"
+      },
+      {
+        "value": 1542,
+        "ilce_adi": "NAZİLLİ"
+      },
+      {
+        "value": 1637,
+        "ilce_adi": "SÖKE"
+      },
+      {
+        "value": 1640,
+        "ilce_adi": "SULTANHİSAR"
+      },
+      {
+        "value": 1724,
+        "ilce_adi": "YENİPAZAR"
+      }
+    ]
+  },
+  {
+    "value": 10,
+    "il": "BALIKESİR",
+    "ilceler": [
+      {
+        "value": 2077,
+        "ilce_adi": "ALTIEYLÜL"
+      },
+      {
+        "value": 1161,
+        "ilce_adi": "AYVALIK"
+      },
+      {
+        "value": 1169,
+        "ilce_adi": "BALYA"
+      },
+      {
+        "value": 1171,
+        "ilce_adi": "BANDIRMA"
+      },
+      {
+        "value": 1191,
+        "ilce_adi": "BİGADİÇ"
+      },
+      {
+        "value": 1216,
+        "ilce_adi": "BURHANİYE"
+      },
+      {
+        "value": 1291,
+        "ilce_adi": "DURSUNBEY"
+      },
+      {
+        "value": 1294,
+        "ilce_adi": "EDREMİT"
+      },
+      {
+        "value": 1310,
+        "ilce_adi": "ERDEK"
+      },
+      {
+        "value": 1928,
+        "ilce_adi": "GÖMEÇ"
+      },
+      {
+        "value": 1360,
+        "ilce_adi": "GÖNEN"
+      },
+      {
+        "value": 1384,
+        "ilce_adi": "HAVRAN"
+      },
+      {
+        "value": 1418,
+        "ilce_adi": "İVRİNDİ"
+      },
+      {
+        "value": 2078,
+        "ilce_adi": "KARESİ"
+      },
+      {
+        "value": 1462,
+        "ilce_adi": "KEPSUT"
+      },
+      {
+        "value": 1514,
+        "ilce_adi": "MANYAS"
+      },
+      {
+        "value": 1824,
+        "ilce_adi": "MARMARA"
+      },
+      {
+        "value": 1608,
+        "ilce_adi": "SAVAŞTEPE"
+      },
+      {
+        "value": 1619,
+        "ilce_adi": "SINDIRGI"
+      },
+      {
+        "value": 1644,
+        "ilce_adi": "SUSURLUK"
+      }
+    ]
+  },
+  {
+    "value": 74,
+    "il": "BARTIN",
+    "ilceler": [
+      {
+        "value": 1761,
+        "ilce_adi": "AMASRA"
+      },
+      {
+        "value": 1496,
+        "ilce_adi": "KURUCAŞİLE"
+      },
+      {
+        "value": 1172,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1701,
+        "ilce_adi": "ULUS"
+      }
+    ]
+  },
+  {
+    "value": 72,
+    "il": "BATMAN",
+    "ilceler": [
+      {
+        "value": 1184,
+        "ilce_adi": "BEŞİRİ"
+      },
+      {
+        "value": 1345,
+        "ilce_adi": "GERCÜŞ"
+      },
+      {
+        "value": 1941,
+        "ilce_adi": "HASANKEYF"
+      },
+      {
+        "value": 1487,
+        "ilce_adi": "KOZLUK"
+      },
+      {
+        "value": 1174,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1607,
+        "ilce_adi": "SASON"
+      }
+    ]
+  },
+  {
+    "value": 69,
+    "il": "BAYBURT",
+    "ilceler": [
+      {
+        "value": 1767,
+        "ilce_adi": "AYDINTEPE"
+      },
+      {
+        "value": 1788,
+        "ilce_adi": "DEMİRÖZÜ"
+      },
+      {
+        "value": 1176,
+        "ilce_adi": "MERKEZ"
+      }
+    ]
+  },
+  {
+    "value": 11,
+    "il": "BİLECİK",
+    "ilceler": [
+      {
+        "value": 1210,
+        "ilce_adi": "BOZÜYÜK"
+      },
+      {
+        "value": 1359,
+        "ilce_adi": "GÖLPAZARI"
+      },
+      {
+        "value": 1948,
+        "ilce_adi": "İNHİSAR"
+      },
+      {
+        "value": 1192,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1559,
+        "ilce_adi": "OSMANELİ"
+      },
+      {
+        "value": 1571,
+        "ilce_adi": "PAZARYERİ"
+      },
+      {
+        "value": 1636,
+        "ilce_adi": "SÖĞÜT"
+      },
+      {
+        "value": 1857,
+        "ilce_adi": "YENİPAZAR"
+      }
+    ]
+  },
+  {
+    "value": 12,
+    "il": "BİNGÖL",
+    "ilceler": [
+      {
+        "value": 1750,
+        "ilce_adi": "ADAKLI"
+      },
+      {
+        "value": 1344,
+        "ilce_adi": "GENÇ"
+      },
+      {
+        "value": 1446,
+        "ilce_adi": "KARLIOVA"
+      },
+      {
+        "value": 1475,
+        "ilce_adi": "KİĞI"
+      },
+      {
+        "value": 1193,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1633,
+        "ilce_adi": "SOLHAN"
+      },
+      {
+        "value": 1855,
+        "ilce_adi": "YAYLADERE"
+      },
+      {
+        "value": 1996,
+        "ilce_adi": "YEDİSU"
+      }
+    ]
+  },
+  {
+    "value": 13,
+    "il": "BİTLİS",
+    "ilceler": [
+      {
+        "value": 1106,
+        "ilce_adi": "ADİLCEVAZ"
+      },
+      {
+        "value": 1112,
+        "ilce_adi": "AHLAT"
+      },
+      {
+        "value": 1798,
+        "ilce_adi": "GÜROYMAK"
+      },
+      {
+        "value": 1394,
+        "ilce_adi": "HİZAN"
+      },
+      {
+        "value": 1196,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1537,
+        "ilce_adi": "MUTKİ"
+      },
+      {
+        "value": 1669,
+        "ilce_adi": "TATVAN"
+      }
+    ]
+  },
+  {
+    "value": 14,
+    "il": "BOLU",
+    "ilceler": [
+      {
+        "value": 1916,
+        "ilce_adi": "DÖRTDİVAN"
+      },
+      {
+        "value": 1346,
+        "ilce_adi": "GEREDE"
+      },
+      {
+        "value": 1364,
+        "ilce_adi": "GÖYNÜK"
+      },
+      {
+        "value": 1466,
+        "ilce_adi": "KIBRISCIK"
+      },
+      {
+        "value": 1522,
+        "ilce_adi": "MENGEN"
+      },
+      {
+        "value": 1199,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1531,
+        "ilce_adi": "MUDURNU"
+      },
+      {
+        "value": 1610,
+        "ilce_adi": "SEBEN"
+      },
+      {
+        "value": 1997,
+        "ilce_adi": "YENİÇAĞA"
+      }
+    ]
+  },
+  {
+    "value": 15,
+    "il": "BURDUR",
+    "ilceler": [
+      {
+        "value": 1109,
+        "ilce_adi": "AĞLASUN"
+      },
+      {
+        "value": 1874,
+        "ilce_adi": "ALTINYAYLA"
+      },
+      {
+        "value": 1211,
+        "ilce_adi": "BUCAK"
+      },
+      {
+        "value": 1899,
+        "ilce_adi": "ÇAVDIR"
+      },
+      {
+        "value": 1903,
+        "ilce_adi": "ÇELTİKÇİ"
+      },
+      {
+        "value": 1357,
+        "ilce_adi": "GÖLHİSAR"
+      },
+      {
+        "value": 1813,
+        "ilce_adi": "KARAMANLI"
+      },
+      {
+        "value": 1816,
+        "ilce_adi": "KEMER"
+      },
+      {
+        "value": 1215,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1672,
+        "ilce_adi": "TEFENNİ"
+      },
+      {
+        "value": 1728,
+        "ilce_adi": "YEŞİLOVA"
+      }
+    ]
+  },
+  {
+    "value": 16,
+    "il": "BURSA",
+    "ilceler": [
+      {
+        "value": 1783,
+        "ilce_adi": "BÜYÜKORHAN"
+      },
+      {
+        "value": 1343,
+        "ilce_adi": "GEMLİK"
+      },
+      {
+        "value": 1935,
+        "ilce_adi": "GÜRSU"
+      },
+      {
+        "value": 1799,
+        "ilce_adi": "HARMANCIK"
+      },
+      {
+        "value": 1411,
+        "ilce_adi": "İNEGÖL"
+      },
+      {
+        "value": 1420,
+        "ilce_adi": "İZNİK"
+      },
+      {
+        "value": 1434,
+        "ilce_adi": "KARACABEY"
+      },
+      {
+        "value": 1457,
+        "ilce_adi": "KELES"
+      },
+      {
+        "value": 1960,
+        "ilce_adi": "KESTEL"
+      },
+      {
+        "value": 1535,
+        "ilce_adi": "M.KEMALPAŞA"
+      },
+      {
+        "value": 1530,
+        "ilce_adi": "MUDANYA"
+      },
+      {
+        "value": 1829,
+        "ilce_adi": "NİLÜFER"
+      },
+      {
+        "value": 1553,
+        "ilce_adi": "ORHANELİ"
+      },
+      {
+        "value": 1554,
+        "ilce_adi": "ORHANGAZİ"
+      },
+      {
+        "value": 1832,
+        "ilce_adi": "OSMANGAZİ"
+      },
+      {
+        "value": 1725,
+        "ilce_adi": "YENİŞEHİR"
+      },
+      {
+        "value": 1859,
+        "ilce_adi": "YILDIRIM"
+      }
+    ]
+  },
+  {
+    "value": 17,
+    "il": "ÇANAKKALE",
+    "ilceler": [
+      {
+        "value": 1160,
+        "ilce_adi": "AYVACIK"
+      },
+      {
+        "value": 1180,
+        "ilce_adi": "BAYRAMİÇ"
+      },
+      {
+        "value": 1190,
+        "ilce_adi": "BİGA"
+      },
+      {
+        "value": 1205,
+        "ilce_adi": "BOZCAADA"
+      },
+      {
+        "value": 1229,
+        "ilce_adi": "ÇAN"
+      },
+      {
+        "value": 1293,
+        "ilce_adi": "ECEABAT"
+      },
+      {
+        "value": 1326,
+        "ilce_adi": "EZİNE"
+      },
+      {
+        "value": 1340,
+        "ilce_adi": "GELİBOLU"
+      },
+      {
+        "value": 1408,
+        "ilce_adi": "GÖKÇEADA"
+      },
+      {
+        "value": 1503,
+        "ilce_adi": "LAPSEKİ"
+      },
+      {
+        "value": 1230,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1722,
+        "ilce_adi": "YENİCE"
+      }
+    ]
+  },
+  {
+    "value": 18,
+    "il": "ÇANKIRI",
+    "ilceler": [
+      {
+        "value": 1765,
+        "ilce_adi": "ATKARACALAR"
+      },
+      {
+        "value": 1885,
+        "ilce_adi": "BAYRAMÖREN"
+      },
+      {
+        "value": 1248,
+        "ilce_adi": "ÇERKEŞ"
+      },
+      {
+        "value": 1300,
+        "ilce_adi": "ELDİVAN"
+      },
+      {
+        "value": 1399,
+        "ilce_adi": "ILGAZ"
+      },
+      {
+        "value": 1817,
+        "ilce_adi": "KIZILIRMAK"
+      },
+      {
+        "value": 1963,
+        "ilce_adi": "KORGUN"
+      },
+      {
+        "value": 1494,
+        "ilce_adi": "KURŞUNLU"
+      },
+      {
+        "value": 1232,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1555,
+        "ilce_adi": "ORTA"
+      },
+      {
+        "value": 1649,
+        "ilce_adi": "ŞABANÖZÜ"
+      },
+      {
+        "value": 1718,
+        "ilce_adi": "YAPRAKLI"
+      }
+    ]
+  },
+  {
+    "value": 19,
+    "il": "ÇORUM",
+    "ilceler": [
+      {
+        "value": 1124,
+        "ilce_adi": "ALACA"
+      },
+      {
+        "value": 1177,
+        "ilce_adi": "BAYAT"
+      },
+      {
+        "value": 1778,
+        "ilce_adi": "BOĞAZKALE"
+      },
+      {
+        "value": 1911,
+        "ilce_adi": "DODURGA"
+      },
+      {
+        "value": 1414,
+        "ilce_adi": "İSKİLİP"
+      },
+      {
+        "value": 1445,
+        "ilce_adi": "KARGI"
+      },
+      {
+        "value": 1972,
+        "ilce_adi": "LAÇİN"
+      },
+      {
+        "value": 1520,
+        "ilce_adi": "MECİTÖZÜ"
+      },
+      {
+        "value": 1259,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1976,
+        "ilce_adi": "OĞUZLAR"
+      },
+      {
+        "value": 1556,
+        "ilce_adi": "ORTAKÖY"
+      },
+      {
+        "value": 1558,
+        "ilce_adi": "OSMANCIK"
+      },
+      {
+        "value": 1642,
+        "ilce_adi": "SUNGURLU"
+      },
+      {
+        "value": 1850,
+        "ilce_adi": "UĞURLUDAĞ"
+      }
+    ]
+  },
+  {
+    "value": 20,
+    "il": "DENİZLİ",
+    "ilceler": [
+      {
+        "value": 1102,
+        "ilce_adi": "ACIPAYAM"
+      },
+      {
+        "value": 1769,
+        "ilce_adi": "BABADAĞ"
+      },
+      {
+        "value": 1881,
+        "ilce_adi": "BAKLAN"
+      },
+      {
+        "value": 1774,
+        "ilce_adi": "BEKİLLİ"
+      },
+      {
+        "value": 1888,
+        "ilce_adi": "BEYAĞAÇ"
+      },
+      {
+        "value": 1889,
+        "ilce_adi": "BOZKURT"
+      },
+      {
+        "value": 1214,
+        "ilce_adi": "BULDAN"
+      },
+      {
+        "value": 1224,
+        "ilce_adi": "ÇAL"
+      },
+      {
+        "value": 1226,
+        "ilce_adi": "ÇAMELİ"
+      },
+      {
+        "value": 1233,
+        "ilce_adi": "ÇARDAK"
+      },
+      {
+        "value": 1257,
+        "ilce_adi": "ÇİVRİL"
+      },
+      {
+        "value": 1371,
+        "ilce_adi": "GÜNEY"
+      },
+      {
+        "value": 1803,
+        "ilce_adi": "HONAZ"
+      },
+      {
+        "value": 1426,
+        "ilce_adi": "KALE"
+      },
+      {
+        "value": 2079,
+        "ilce_adi": "MERKEZEFENDİ"
+      },
+      {
+        "value": 1871,
+        "ilce_adi": "PAMUKKALE"
+      },
+      {
+        "value": 1597,
+        "ilce_adi": "SARAYKÖY"
+      },
+      {
+        "value": 1840,
+        "ilce_adi": "SERİNHİSAR"
+      },
+      {
+        "value": 1670,
+        "ilce_adi": "TAVAS"
+      }
+    ]
+  },
+  {
+    "value": 21,
+    "il": "DİYARBAKIR",
+    "ilceler": [
+      {
+        "value": 2040,
+        "ilce_adi": "BAĞLAR"
+      },
+      {
+        "value": 1195,
+        "ilce_adi": "BİSMİL"
+      },
+      {
+        "value": 1249,
+        "ilce_adi": "ÇERMİK"
+      },
+      {
+        "value": 1253,
+        "ilce_adi": "ÇINAR"
+      },
+      {
+        "value": 1263,
+        "ilce_adi": "ÇÜNGÜŞ"
+      },
+      {
+        "value": 1278,
+        "ilce_adi": "DİCLE"
+      },
+      {
+        "value": 1791,
+        "ilce_adi": "EĞİL"
+      },
+      {
+        "value": 1315,
+        "ilce_adi": "ERGANİ"
+      },
+      {
+        "value": 1381,
+        "ilce_adi": "HANİ"
+      },
+      {
+        "value": 1389,
+        "ilce_adi": "HAZRO"
+      },
+      {
+        "value": 2041,
+        "ilce_adi": "KAYAPINAR"
+      },
+      {
+        "value": 1962,
+        "ilce_adi": "KOCAKÖY"
+      },
+      {
+        "value": 1490,
+        "ilce_adi": "KULP"
+      },
+      {
+        "value": 1504,
+        "ilce_adi": "LİCE"
+      },
+      {
+        "value": 1624,
+        "ilce_adi": "SİLVAN"
+      },
+      {
+        "value": 2042,
+        "ilce_adi": "SUR"
+      },
+      {
+        "value": 2043,
+        "ilce_adi": "YENİŞEHİR"
+      }
+    ]
+  },
+  {
+    "value": 81,
+    "il": "DÜZCE",
+    "ilceler": [
+      {
+        "value": 1116,
+        "ilce_adi": "AKÇAKOCA"
+      },
+      {
+        "value": 1905,
+        "ilce_adi": "ÇİLİMLİ"
+      },
+      {
+        "value": 1784,
+        "ilce_adi": "CUMAYERİ"
+      },
+      {
+        "value": 1794,
+        "ilce_adi": "GÖLYAKA"
+      },
+      {
+        "value": 2017,
+        "ilce_adi": "GÜMÜŞOVA"
+      },
+      {
+        "value": 2031,
+        "ilce_adi": "KAYNAŞLI"
+      },
+      {
+        "value": 1292,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1730,
+        "ilce_adi": "YIĞILCA"
+      }
+    ]
+  },
+  {
+    "value": 22,
+    "il": "EDİRNE",
+    "ilceler": [
+      {
+        "value": 1307,
+        "ilce_adi": "ENEZ"
+      },
+      {
+        "value": 1385,
+        "ilce_adi": "HAVSA"
+      },
+      {
+        "value": 1412,
+        "ilce_adi": "İPSALA"
+      },
+      {
+        "value": 1464,
+        "ilce_adi": "KEŞAN"
+      },
+      {
+        "value": 1502,
+        "ilce_adi": "LALAPAŞA"
+      },
+      {
+        "value": 1523,
+        "ilce_adi": "MERİÇ"
+      },
+      {
+        "value": 1295,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1988,
+        "ilce_adi": "SÜLOĞLU"
+      },
+      {
+        "value": 1705,
+        "ilce_adi": "UZUNKÖPRÜ"
+      }
+    ]
+  },
+  {
+    "value": 23,
+    "il": "ELAZIĞ",
+    "ilceler": [
+      {
+        "value": 1110,
+        "ilce_adi": "AĞIN"
+      },
+      {
+        "value": 1873,
+        "ilce_adi": "ALACAKAYA"
+      },
+      {
+        "value": 1762,
+        "ilce_adi": "ARICAK"
+      },
+      {
+        "value": 1173,
+        "ilce_adi": "BASKİL"
+      },
+      {
+        "value": 1438,
+        "ilce_adi": "KARAKOÇAN"
+      },
+      {
+        "value": 1455,
+        "ilce_adi": "KEBAN"
+      },
+      {
+        "value": 1820,
+        "ilce_adi": "KOVANCILAR"
+      },
+      {
+        "value": 1506,
+        "ilce_adi": "MADEN"
+      },
+      {
+        "value": 1298,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1566,
+        "ilce_adi": "PALU"
+      },
+      {
+        "value": 1631,
+        "ilce_adi": "SİVRİCE"
+      }
+    ]
+  },
+  {
+    "value": 24,
+    "il": "ERZİNCAN",
+    "ilceler": [
+      {
+        "value": 1243,
+        "ilce_adi": "ÇAYIRLI"
+      },
+      {
+        "value": 1406,
+        "ilce_adi": "İLİÇ"
+      },
+      {
+        "value": 1459,
+        "ilce_adi": "KEMAH"
+      },
+      {
+        "value": 1460,
+        "ilce_adi": "KEMALİYE"
+      },
+      {
+        "value": 1318,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1977,
+        "ilce_adi": "OTLUKBELİ"
+      },
+      {
+        "value": 1583,
+        "ilce_adi": "REFAHİYE"
+      },
+      {
+        "value": 1675,
+        "ilce_adi": "TERCAN"
+      },
+      {
+        "value": 1853,
+        "ilce_adi": "ÜZÜMLÜ"
+      }
+    ]
+  },
+  {
+    "value": 25,
+    "il": "ERZURUM",
+    "ilceler": [
+      {
+        "value": 1153,
+        "ilce_adi": "AŞKALE"
+      },
+      {
+        "value": 1945,
+        "ilce_adi": "AZİZİYE"
+      },
+      {
+        "value": 1235,
+        "ilce_adi": "ÇAT"
+      },
+      {
+        "value": 1392,
+        "ilce_adi": "HINIS"
+      },
+      {
+        "value": 1396,
+        "ilce_adi": "HORASAN"
+      },
+      {
+        "value": 1416,
+        "ilce_adi": "İSPİR"
+      },
+      {
+        "value": 1812,
+        "ilce_adi": "KARAÇOBAN"
+      },
+      {
+        "value": 1444,
+        "ilce_adi": "KARAYAZI"
+      },
+      {
+        "value": 1967,
+        "ilce_adi": "KÖPRÜKÖY"
+      },
+      {
+        "value": 1540,
+        "ilce_adi": "NARMAN"
+      },
+      {
+        "value": 1550,
+        "ilce_adi": "OLTU"
+      },
+      {
+        "value": 1551,
+        "ilce_adi": "OLUR"
+      },
+      {
+        "value": 2044,
+        "ilce_adi": "PALANDÖKEN"
+      },
+      {
+        "value": 1567,
+        "ilce_adi": "PASİNLER"
+      },
+      {
+        "value": 1865,
+        "ilce_adi": "PAZARYOLU"
+      },
+      {
+        "value": 1657,
+        "ilce_adi": "ŞENKAYA"
+      },
+      {
+        "value": 1674,
+        "ilce_adi": "TEKMAN"
+      },
+      {
+        "value": 1683,
+        "ilce_adi": "TORTUM"
+      },
+      {
+        "value": 1851,
+        "ilce_adi": "UZUNDERE"
+      },
+      {
+        "value": 2045,
+        "ilce_adi": "YAKUTİYE"
+      }
+    ]
+  },
+  {
+    "value": 26,
+    "il": "ESKİŞEHİR",
+    "ilceler": [
+      {
+        "value": 1759,
+        "ilce_adi": "ALPU"
+      },
+      {
+        "value": 1777,
+        "ilce_adi": "BEYLİKOVA"
+      },
+      {
+        "value": 1255,
+        "ilce_adi": "ÇİFTELER"
+      },
+      {
+        "value": 1934,
+        "ilce_adi": "GÜNYÜZÜ"
+      },
+      {
+        "value": 1939,
+        "ilce_adi": "HAN"
+      },
+      {
+        "value": 1808,
+        "ilce_adi": "İNÖNÜ"
+      },
+      {
+        "value": 1508,
+        "ilce_adi": "MAHMUDİYE"
+      },
+      {
+        "value": 1973,
+        "ilce_adi": "MİHALGAZİ"
+      },
+      {
+        "value": 1527,
+        "ilce_adi": "MİHALIÇÇIK"
+      },
+      {
+        "value": 2046,
+        "ilce_adi": "ODUNPAZARI"
+      },
+      {
+        "value": 1599,
+        "ilce_adi": "SARICAKAYA"
+      },
+      {
+        "value": 1618,
+        "ilce_adi": "SEYİTGAZİ"
+      },
+      {
+        "value": 1632,
+        "ilce_adi": "SİVRİHİSAR"
+      },
+      {
+        "value": 2047,
+        "ilce_adi": "TEPEBAŞI"
+      }
+    ]
+  },
+  {
+    "value": 27,
+    "il": "GAZİANTEP",
+    "ilceler": [
+      {
+        "value": 1139,
+        "ilce_adi": "ARABAN"
+      },
+      {
+        "value": 1415,
+        "ilce_adi": "İSLAHİYE"
+      },
+      {
+        "value": 1956,
+        "ilce_adi": "KARKAMIŞ"
+      },
+      {
+        "value": 1546,
+        "ilce_adi": "NİZİP"
+      },
+      {
+        "value": 1974,
+        "ilce_adi": "NURDAĞI"
+      },
+      {
+        "value": 1549,
+        "ilce_adi": "OĞUZELİ"
+      },
+      {
+        "value": 1841,
+        "ilce_adi": "ŞAHİNBEY"
+      },
+      {
+        "value": 1844,
+        "ilce_adi": "ŞEHİTKAMİL"
+      },
+      {
+        "value": 1720,
+        "ilce_adi": "YAVUZELİ"
+      }
+    ]
+  },
+  {
+    "value": 28,
+    "il": "GİRESUN",
+    "ilceler": [
+      {
+        "value": 1133,
+        "ilce_adi": "ALUCRA"
+      },
+      {
+        "value": 1212,
+        "ilce_adi": "BULANCAK"
+      },
+      {
+        "value": 1893,
+        "ilce_adi": "ÇAMOLUK"
+      },
+      {
+        "value": 1894,
+        "ilce_adi": "ÇANAKÇI"
+      },
+      {
+        "value": 1272,
+        "ilce_adi": "DERELİ"
+      },
+      {
+        "value": 1912,
+        "ilce_adi": "DOĞANKENT"
+      },
+      {
+        "value": 1320,
+        "ilce_adi": "ESPİYE"
+      },
+      {
+        "value": 1324,
+        "ilce_adi": "EYNESİL"
+      },
+      {
+        "value": 1361,
+        "ilce_adi": "GÖRELE"
+      },
+      {
+        "value": 1930,
+        "ilce_adi": "GÜCE"
+      },
+      {
+        "value": 1465,
+        "ilce_adi": "KEŞAP"
+      },
+      {
+        "value": 1352,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1837,
+        "ilce_adi": "PİRAZİZ"
+      },
+      {
+        "value": 1654,
+        "ilce_adi": "ŞEBİNKARAHİSAR"
+      },
+      {
+        "value": 1678,
+        "ilce_adi": "TİREBOLU"
+      },
+      {
+        "value": 1854,
+        "ilce_adi": "YAĞLIDERE"
+      }
+    ]
+  },
+  {
+    "value": 29,
+    "il": "GÜMÜŞHANE",
+    "ilceler": [
+      {
+        "value": 1458,
+        "ilce_adi": "KELKİT"
+      },
+      {
+        "value": 1822,
+        "ilce_adi": "KÖSE"
+      },
+      {
+        "value": 1971,
+        "ilce_adi": "KÜRTÜN"
+      },
+      {
+        "value": 1369,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1660,
+        "ilce_adi": "ŞİRAN"
+      },
+      {
+        "value": 1684,
+        "ilce_adi": "TORUL"
+      }
+    ]
+  },
+  {
+    "value": 30,
+    "il": "HAKKARİ",
+    "ilceler": [
+      {
+        "value": 1261,
+        "ilce_adi": "ÇUKURCA"
+      },
+      {
+        "value": 2107,
+        "ilce_adi": "DERECİK"
+      },
+      {
+        "value": 1377,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1656,
+        "ilce_adi": "ŞEMDİNLİ"
+      },
+      {
+        "value": 1737,
+        "ilce_adi": "YÜKSEKOVA"
+      }
+    ]
+  },
+  {
+    "value": 31,
+    "il": "HATAY",
+    "ilceler": [
+      {
+        "value": 1131,
+        "ilce_adi": "ALTINÖZÜ"
+      },
+      {
+        "value": 2080,
+        "ilce_adi": "ANTAKYA"
+      },
+      {
+        "value": 2081,
+        "ilce_adi": "ARSUZ"
+      },
+      {
+        "value": 1887,
+        "ilce_adi": "BELEN"
+      },
+      {
+        "value": 2082,
+        "ilce_adi": "DEFNE"
+      },
+      {
+        "value": 1289,
+        "ilce_adi": "DÖRTYOL"
+      },
+      {
+        "value": 1792,
+        "ilce_adi": "ERZİN"
+      },
+      {
+        "value": 1382,
+        "ilce_adi": "HASSA"
+      },
+      {
+        "value": 1413,
+        "ilce_adi": "İSKENDERUN"
+      },
+      {
+        "value": 1468,
+        "ilce_adi": "KIRIKHAN"
+      },
+      {
+        "value": 1970,
+        "ilce_adi": "KUMLU"
+      },
+      {
+        "value": 2083,
+        "ilce_adi": "PAYAS"
+      },
+      {
+        "value": 1585,
+        "ilce_adi": "REYHANLI"
+      },
+      {
+        "value": 1591,
+        "ilce_adi": "SAMANDAĞ"
+      },
+      {
+        "value": 1721,
+        "ilce_adi": "YAYLADAĞI"
+      }
+    ]
+  },
+  {
+    "value": 76,
+    "il": "IĞDIR",
+    "ilceler": [
+      {
+        "value": 1142,
+        "ilce_adi": "ARALIK"
+      },
+      {
+        "value": 2011,
+        "ilce_adi": "KARAKOYUNLU"
+      },
+      {
+        "value": 1398,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1692,
+        "ilce_adi": "TUZLUCA"
+      }
+    ]
+  },
+  {
+    "value": 32,
+    "il": "ISPARTA",
+    "ilceler": [
+      {
+        "value": 1755,
+        "ilce_adi": "AKSU"
+      },
+      {
+        "value": 1154,
+        "ilce_adi": "ATABEY"
+      },
+      {
+        "value": 1297,
+        "ilce_adi": "EĞİRDİR"
+      },
+      {
+        "value": 1341,
+        "ilce_adi": "GELENDOST"
+      },
+      {
+        "value": 1929,
+        "ilce_adi": "GÖNEN"
+      },
+      {
+        "value": 1456,
+        "ilce_adi": "KEÇİBORLU"
+      },
+      {
+        "value": 1401,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1651,
+        "ilce_adi": "ŞARKİKARAAĞAÇ"
+      },
+      {
+        "value": 1615,
+        "ilce_adi": "SENİRKENT"
+      },
+      {
+        "value": 1648,
+        "ilce_adi": "SÜTÇÜLER"
+      },
+      {
+        "value": 1699,
+        "ilce_adi": "ULUBORLU"
+      },
+      {
+        "value": 1717,
+        "ilce_adi": "YALVAÇ"
+      },
+      {
+        "value": 2001,
+        "ilce_adi": "YENİŞARBADEMLİ"
+      }
+    ]
+  },
+  {
+    "value": 34,
+    "il": "İSTANBUL",
+    "ilceler": [
+      {
+        "value": 1103,
+        "ilce_adi": "ADALAR"
+      },
+      {
+        "value": 2048,
+        "ilce_adi": "ARNAVUTKÖY"
+      },
+      {
+        "value": 2049,
+        "ilce_adi": "ATAŞEHİR"
+      },
+      {
+        "value": 2003,
+        "ilce_adi": "AVCILAR"
+      },
+      {
+        "value": 2004,
+        "ilce_adi": "BAĞCILAR"
+      },
+      {
+        "value": 2005,
+        "ilce_adi": "BAHÇELİEVLER"
+      },
+      {
+        "value": 1166,
+        "ilce_adi": "BAKIRKÖY"
+      },
+      {
+        "value": 2050,
+        "ilce_adi": "BAŞAKŞEHİR"
+      },
+      {
+        "value": 1886,
+        "ilce_adi": "BAYRAMPAŞA"
+      },
+      {
+        "value": 1183,
+        "ilce_adi": "BEŞİKTAŞ"
+      },
+      {
+        "value": 1185,
+        "ilce_adi": "BEYKOZ"
+      },
+      {
+        "value": 2051,
+        "ilce_adi": "BEYLİKDÜZÜ"
+      },
+      {
+        "value": 1186,
+        "ilce_adi": "BEYOĞLU"
+      },
+      {
+        "value": 1782,
+        "ilce_adi": "BÜYÜKÇEKMECE"
+      },
+      {
+        "value": 1237,
+        "ilce_adi": "ÇATALCA"
+      },
+      {
+        "value": 2052,
+        "ilce_adi": "ÇEKMEKÖY"
+      },
+      {
+        "value": 2016,
+        "ilce_adi": "ESENLER"
+      },
+      {
+        "value": 2053,
+        "ilce_adi": "ESENYURT"
+      },
+      {
+        "value": 1325,
+        "ilce_adi": "EYÜPSULTAN"
+      },
+      {
+        "value": 1327,
+        "ilce_adi": "FATİH"
+      },
+      {
+        "value": 1336,
+        "ilce_adi": "GAZİOSMANPAŞA"
+      },
+      {
+        "value": 2010,
+        "ilce_adi": "GÜNGÖREN"
+      },
+      {
+        "value": 1421,
+        "ilce_adi": "KADIKÖY"
+      },
+      {
+        "value": 1810,
+        "ilce_adi": "KAĞITHANE"
+      },
+      {
+        "value": 1449,
+        "ilce_adi": "KARTAL"
+      },
+      {
+        "value": 1823,
+        "ilce_adi": "KÜÇÜKÇEKMECE"
+      },
+      {
+        "value": 2012,
+        "ilce_adi": "MALTEPE"
+      },
+      {
+        "value": 1835,
+        "ilce_adi": "PENDİK"
+      },
+      {
+        "value": 2054,
+        "ilce_adi": "SANCAKTEPE"
+      },
+      {
+        "value": 1604,
+        "ilce_adi": "SARIYER"
+      },
+      {
+        "value": 1659,
+        "ilce_adi": "ŞİLE"
+      },
+      {
+        "value": 1622,
+        "ilce_adi": "SİLİVRİ"
+      },
+      {
+        "value": 1663,
+        "ilce_adi": "ŞİŞLİ"
+      },
+      {
+        "value": 2014,
+        "ilce_adi": "SULTANBEYLİ"
+      },
+      {
+        "value": 2055,
+        "ilce_adi": "SULTANGAZİ"
+      },
+      {
+        "value": 2015,
+        "ilce_adi": "TUZLA"
+      },
+      {
+        "value": 1852,
+        "ilce_adi": "ÜMRANİYE"
+      },
+      {
+        "value": 1708,
+        "ilce_adi": "ÜSKÜDAR"
+      },
+      {
+        "value": 1739,
+        "ilce_adi": "ZEYTİNBURNU"
+      }
+    ]
+  },
+  {
+    "value": 35,
+    "il": "İZMİR",
+    "ilceler": [
+      {
+        "value": 1128,
+        "ilce_adi": "ALİAĞA"
+      },
+      {
+        "value": 2006,
+        "ilce_adi": "BALÇOVA"
+      },
+      {
+        "value": 1178,
+        "ilce_adi": "BAYINDIR"
+      },
+      {
+        "value": 2056,
+        "ilce_adi": "BAYRAKLI"
+      },
+      {
+        "value": 1181,
+        "ilce_adi": "BERGAMA"
+      },
+      {
+        "value": 1776,
+        "ilce_adi": "BEYDAĞ"
+      },
+      {
+        "value": 1203,
+        "ilce_adi": "BORNOVA"
+      },
+      {
+        "value": 1780,
+        "ilce_adi": "BUCA"
+      },
+      {
+        "value": 1251,
+        "ilce_adi": "ÇEŞME"
+      },
+      {
+        "value": 2007,
+        "ilce_adi": "ÇİĞLİ"
+      },
+      {
+        "value": 1280,
+        "ilce_adi": "DİKİLİ"
+      },
+      {
+        "value": 1334,
+        "ilce_adi": "FOÇA"
+      },
+      {
+        "value": 2009,
+        "ilce_adi": "GAZİEMİR"
+      },
+      {
+        "value": 2018,
+        "ilce_adi": "GÜZELBAHÇE"
+      },
+      {
+        "value": 2057,
+        "ilce_adi": "KARABAĞLAR"
+      },
+      {
+        "value": 1432,
+        "ilce_adi": "KARABURUN"
+      },
+      {
+        "value": 1448,
+        "ilce_adi": "KARŞIYAKA"
+      },
+      {
+        "value": 1461,
+        "ilce_adi": "KEMALPAŞA"
+      },
+      {
+        "value": 1467,
+        "ilce_adi": "KINIK"
+      },
+      {
+        "value": 1477,
+        "ilce_adi": "KİRAZ"
+      },
+      {
+        "value": 1819,
+        "ilce_adi": "KONAK"
+      },
+      {
+        "value": 1826,
+        "ilce_adi": "MENDERES"
+      },
+      {
+        "value": 1521,
+        "ilce_adi": "MENEMEN"
+      },
+      {
+        "value": 2013,
+        "ilce_adi": "NARLIDERE"
+      },
+      {
+        "value": 1563,
+        "ilce_adi": "ÖDEMİŞ"
+      },
+      {
+        "value": 1611,
+        "ilce_adi": "SEFERİHİSAR"
+      },
+      {
+        "value": 1612,
+        "ilce_adi": "SELÇUK"
+      },
+      {
+        "value": 1677,
+        "ilce_adi": "TİRE"
+      },
+      {
+        "value": 1682,
+        "ilce_adi": "TORBALI"
+      },
+      {
+        "value": 1703,
+        "ilce_adi": "URLA"
+      }
+    ]
+  },
+  {
+    "value": 46,
+    "il": "KAHRAMANMARAŞ",
+    "ilceler": [
+      {
+        "value": 1107,
+        "ilce_adi": "AFŞİN"
+      },
+      {
+        "value": 1136,
+        "ilce_adi": "ANDIRIN"
+      },
+      {
+        "value": 1785,
+        "ilce_adi": "ÇAĞLAYANCERİT"
+      },
+      {
+        "value": 2084,
+        "ilce_adi": "DULKADİROĞLU"
+      },
+      {
+        "value": 1919,
+        "ilce_adi": "EKİNÖZÜ"
+      },
+      {
+        "value": 1299,
+        "ilce_adi": "ELBİSTAN"
+      },
+      {
+        "value": 1353,
+        "ilce_adi": "GÖKSUN"
+      },
+      {
+        "value": 1975,
+        "ilce_adi": "NURHAK"
+      },
+      {
+        "value": 2085,
+        "ilce_adi": "ONİKİŞUBAT"
+      },
+      {
+        "value": 1570,
+        "ilce_adi": "PAZARCIK"
+      },
+      {
+        "value": 1694,
+        "ilce_adi": "TÜRKOĞLU"
+      }
+    ]
+  },
+  {
+    "value": 78,
+    "il": "KARABÜK",
+    "ilceler": [
+      {
+        "value": 1296,
+        "ilce_adi": "EFLANİ"
+      },
+      {
+        "value": 1321,
+        "ilce_adi": "ESKİPAZAR"
+      },
+      {
+        "value": 1433,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1561,
+        "ilce_adi": "OVACIK"
+      },
+      {
+        "value": 1587,
+        "ilce_adi": "SAFRANBOLU"
+      },
+      {
+        "value": 1856,
+        "ilce_adi": "YENİCE"
+      }
+    ]
+  },
+  {
+    "value": 70,
+    "il": "KARAMAN",
+    "ilceler": [
+      {
+        "value": 1768,
+        "ilce_adi": "AYRANCI"
+      },
+      {
+        "value": 1884,
+        "ilce_adi": "BAŞYAYLA"
+      },
+      {
+        "value": 1316,
+        "ilce_adi": "ERMENEK"
+      },
+      {
+        "value": 1862,
+        "ilce_adi": "KAZIMKARABEKİR"
+      },
+      {
+        "value": 1439,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1983,
+        "ilce_adi": "SARIVELİLER"
+      }
+    ]
+  },
+  {
+    "value": 36,
+    "il": "KARS",
+    "ilceler": [
+      {
+        "value": 1756,
+        "ilce_adi": "AKYAKA"
+      },
+      {
+        "value": 1149,
+        "ilce_adi": "ARPAÇAY"
+      },
+      {
+        "value": 1279,
+        "ilce_adi": "DİGOR"
+      },
+      {
+        "value": 1424,
+        "ilce_adi": "KAĞIZMAN"
+      },
+      {
+        "value": 1447,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1601,
+        "ilce_adi": "SARIKAMIŞ"
+      },
+      {
+        "value": 1614,
+        "ilce_adi": "SELİM"
+      },
+      {
+        "value": 1645,
+        "ilce_adi": "SUSUZ"
+      }
+    ]
+  },
+  {
+    "value": 37,
+    "il": "KASTAMONU",
+    "ilceler": [
+      {
+        "value": 1101,
+        "ilce_adi": "ABANA"
+      },
+      {
+        "value": 1867,
+        "ilce_adi": "AĞLI"
+      },
+      {
+        "value": 1140,
+        "ilce_adi": "ARAÇ"
+      },
+      {
+        "value": 1162,
+        "ilce_adi": "AZDAVAY"
+      },
+      {
+        "value": 1208,
+        "ilce_adi": "BOZKURT"
+      },
+      {
+        "value": 1238,
+        "ilce_adi": "ÇATALZEYTİN"
+      },
+      {
+        "value": 1221,
+        "ilce_adi": "CİDE"
+      },
+      {
+        "value": 1264,
+        "ilce_adi": "DADAY"
+      },
+      {
+        "value": 1277,
+        "ilce_adi": "DEVREKANİ"
+      },
+      {
+        "value": 1915,
+        "ilce_adi": "DOĞANYURT"
+      },
+      {
+        "value": 1940,
+        "ilce_adi": "HANÖNÜ"
+      },
+      {
+        "value": 1805,
+        "ilce_adi": "İHSANGAZİ"
+      },
+      {
+        "value": 1410,
+        "ilce_adi": "İNEBOLU"
+      },
+      {
+        "value": 1499,
+        "ilce_adi": "KÜRE"
+      },
+      {
+        "value": 1450,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1836,
+        "ilce_adi": "PINARBAŞI"
+      },
+      {
+        "value": 1845,
+        "ilce_adi": "ŞENPAZAR"
+      },
+      {
+        "value": 1984,
+        "ilce_adi": "SEYDİLER"
+      },
+      {
+        "value": 1666,
+        "ilce_adi": "TAŞKÖPRÜ"
+      },
+      {
+        "value": 1685,
+        "ilce_adi": "TOSYA"
+      }
+    ]
+  },
+  {
+    "value": 38,
+    "il": "KAYSERİ",
+    "ilceler": [
+      {
+        "value": 1752,
+        "ilce_adi": "AKKIŞLA"
+      },
+      {
+        "value": 1218,
+        "ilce_adi": "BÜNYAN"
+      },
+      {
+        "value": 1275,
+        "ilce_adi": "DEVELİ"
+      },
+      {
+        "value": 1330,
+        "ilce_adi": "FELAHİYE"
+      },
+      {
+        "value": 1936,
+        "ilce_adi": "HACILAR"
+      },
+      {
+        "value": 1409,
+        "ilce_adi": "İNCESU"
+      },
+      {
+        "value": 1863,
+        "ilce_adi": "KOCASİNAN"
+      },
+      {
+        "value": 1864,
+        "ilce_adi": "MELİKGAZİ"
+      },
+      {
+        "value": 1978,
+        "ilce_adi": "ÖZVATAN"
+      },
+      {
+        "value": 1576,
+        "ilce_adi": "PINARBAŞI"
+      },
+      {
+        "value": 1603,
+        "ilce_adi": "SARIOĞLAN"
+      },
+      {
+        "value": 1605,
+        "ilce_adi": "SARIZ"
+      },
+      {
+        "value": 1846,
+        "ilce_adi": "TALAS"
+      },
+      {
+        "value": 1680,
+        "ilce_adi": "TOMARZA"
+      },
+      {
+        "value": 1715,
+        "ilce_adi": "YAHYALI"
+      },
+      {
+        "value": 1727,
+        "ilce_adi": "YEŞİLHİSAR"
+      }
+    ]
+  },
+  {
+    "value": 79,
+    "il": "KİLİS",
+    "ilceler": [
+      {
+        "value": 2023,
+        "ilce_adi": "ELBEYLİ"
+      },
+      {
+        "value": 1476,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 2024,
+        "ilce_adi": "MUSABEYLİ"
+      },
+      {
+        "value": 2025,
+        "ilce_adi": "POLATELİ"
+      }
+    ]
+  },
+  {
+    "value": 71,
+    "il": "KIRIKKALE",
+    "ilceler": [
+      {
+        "value": 1880,
+        "ilce_adi": "BAHŞİLİ"
+      },
+      {
+        "value": 1882,
+        "ilce_adi": "BALIŞEYH"
+      },
+      {
+        "value": 1901,
+        "ilce_adi": "ÇELEBİ"
+      },
+      {
+        "value": 1268,
+        "ilce_adi": "DELİCE"
+      },
+      {
+        "value": 1954,
+        "ilce_adi": "KARAKEÇİLİ"
+      },
+      {
+        "value": 1463,
+        "ilce_adi": "KESKİN"
+      },
+      {
+        "value": 1469,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1638,
+        "ilce_adi": "SULAKYURT"
+      },
+      {
+        "value": 1992,
+        "ilce_adi": "YAHŞİHAN"
+      }
+    ]
+  },
+  {
+    "value": 39,
+    "il": "KIRKLARELİ",
+    "ilceler": [
+      {
+        "value": 1163,
+        "ilce_adi": "BABAESKİ"
+      },
+      {
+        "value": 1270,
+        "ilce_adi": "DEMİRKÖY"
+      },
+      {
+        "value": 1480,
+        "ilce_adi": "KOFÇAZ"
+      },
+      {
+        "value": 1505,
+        "ilce_adi": "LÜLEBURGAZ"
+      },
+      {
+        "value": 1471,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1572,
+        "ilce_adi": "PEHLİVANKÖY"
+      },
+      {
+        "value": 1577,
+        "ilce_adi": "PINARHİSAR"
+      },
+      {
+        "value": 1714,
+        "ilce_adi": "VİZE"
+      }
+    ]
+  },
+  {
+    "value": 40,
+    "il": "KIRŞEHİR",
+    "ilceler": [
+      {
+        "value": 1869,
+        "ilce_adi": "AKÇAKENT"
+      },
+      {
+        "value": 1754,
+        "ilce_adi": "AKPINAR"
+      },
+      {
+        "value": 1890,
+        "ilce_adi": "BOZTEPE"
+      },
+      {
+        "value": 1254,
+        "ilce_adi": "ÇİÇEKDAĞI"
+      },
+      {
+        "value": 1429,
+        "ilce_adi": "KAMAN"
+      },
+      {
+        "value": 1472,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1529,
+        "ilce_adi": "MUCUR"
+      }
+    ]
+  },
+  {
+    "value": 41,
+    "il": "KOCAELİ",
+    "ilceler": [
+      {
+        "value": 2058,
+        "ilce_adi": "BAŞİSKELE"
+      },
+      {
+        "value": 2059,
+        "ilce_adi": "ÇAYIROVA"
+      },
+      {
+        "value": 2060,
+        "ilce_adi": "DARICA"
+      },
+      {
+        "value": 2030,
+        "ilce_adi": "DERİNCE"
+      },
+      {
+        "value": 2061,
+        "ilce_adi": "DİLOVASI"
+      },
+      {
+        "value": 1338,
+        "ilce_adi": "GEBZE"
+      },
+      {
+        "value": 1355,
+        "ilce_adi": "GÖLCÜK"
+      },
+      {
+        "value": 2062,
+        "ilce_adi": "İZMİT"
+      },
+      {
+        "value": 1430,
+        "ilce_adi": "KANDIRA"
+      },
+      {
+        "value": 1440,
+        "ilce_adi": "KARAMÜRSEL"
+      },
+      {
+        "value": 2063,
+        "ilce_adi": "KARTEPE"
+      },
+      {
+        "value": 1821,
+        "ilce_adi": "KÖRFEZ"
+      }
+    ]
+  },
+  {
+    "value": 42,
+    "il": "KONYA",
+    "ilceler": [
+      {
+        "value": 1868,
+        "ilce_adi": "AHIRLI"
+      },
+      {
+        "value": 1753,
+        "ilce_adi": "AKÖREN"
+      },
+      {
+        "value": 1122,
+        "ilce_adi": "AKŞEHİR"
+      },
+      {
+        "value": 1760,
+        "ilce_adi": "ALTINEKİN"
+      },
+      {
+        "value": 1188,
+        "ilce_adi": "BEYŞEHİR"
+      },
+      {
+        "value": 1207,
+        "ilce_adi": "BOZKIR"
+      },
+      {
+        "value": 1902,
+        "ilce_adi": "ÇELTİK"
+      },
+      {
+        "value": 1222,
+        "ilce_adi": "CİHANBEYLİ"
+      },
+      {
+        "value": 1262,
+        "ilce_adi": "ÇUMRA"
+      },
+      {
+        "value": 1907,
+        "ilce_adi": "DERBENT"
+      },
+      {
+        "value": 1789,
+        "ilce_adi": "DEREBUCAK"
+      },
+      {
+        "value": 1285,
+        "ilce_adi": "DOĞANHİSAR"
+      },
+      {
+        "value": 1920,
+        "ilce_adi": "EMİRGAZİ"
+      },
+      {
+        "value": 1312,
+        "ilce_adi": "EREĞLİ"
+      },
+      {
+        "value": 1933,
+        "ilce_adi": "GÜNEYSINIR"
+      },
+      {
+        "value": 1375,
+        "ilce_adi": "HADİM"
+      },
+      {
+        "value": 1937,
+        "ilce_adi": "HALKAPINAR"
+      },
+      {
+        "value": 1804,
+        "ilce_adi": "HÜYÜK"
+      },
+      {
+        "value": 1400,
+        "ilce_adi": "ILGIN"
+      },
+      {
+        "value": 1422,
+        "ilce_adi": "KADINHANI"
+      },
+      {
+        "value": 1441,
+        "ilce_adi": "KARAPINAR"
+      },
+      {
+        "value": 1814,
+        "ilce_adi": "KARATAY"
+      },
+      {
+        "value": 1491,
+        "ilce_adi": "KULU"
+      },
+      {
+        "value": 1827,
+        "ilce_adi": "MERAM"
+      },
+      {
+        "value": 1598,
+        "ilce_adi": "SARAYÖNÜ"
+      },
+      {
+        "value": 1839,
+        "ilce_adi": "SELÇUKLU"
+      },
+      {
+        "value": 1617,
+        "ilce_adi": "SEYDİŞEHİR"
+      },
+      {
+        "value": 1848,
+        "ilce_adi": "TAŞKENT"
+      },
+      {
+        "value": 1990,
+        "ilce_adi": "TUZLUKÇU"
+      },
+      {
+        "value": 1994,
+        "ilce_adi": "YALIHÜYÜK"
+      },
+      {
+        "value": 1735,
+        "ilce_adi": "YUNAK"
+      }
+    ]
+  },
+  {
+    "value": 43,
+    "il": "KÜTAHYA",
+    "ilceler": [
+      {
+        "value": 1132,
+        "ilce_adi": "ALTINTAŞ"
+      },
+      {
+        "value": 1764,
+        "ilce_adi": "ASLANAPA"
+      },
+      {
+        "value": 1898,
+        "ilce_adi": "ÇAVDARHİSAR"
+      },
+      {
+        "value": 1288,
+        "ilce_adi": "DOMANİÇ"
+      },
+      {
+        "value": 1790,
+        "ilce_adi": "DUMLUPINAR"
+      },
+      {
+        "value": 1304,
+        "ilce_adi": "EMET"
+      },
+      {
+        "value": 1339,
+        "ilce_adi": "GEDİZ"
+      },
+      {
+        "value": 1802,
+        "ilce_adi": "HİSARCIK"
+      },
+      {
+        "value": 1500,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1979,
+        "ilce_adi": "PAZARLAR"
+      },
+      {
+        "value": 1843,
+        "ilce_adi": "ŞAPHANE"
+      },
+      {
+        "value": 1625,
+        "ilce_adi": "SİMAV"
+      },
+      {
+        "value": 1671,
+        "ilce_adi": "TAVŞANLI"
+      }
+    ]
+  },
+  {
+    "value": 44,
+    "il": "MALATYA",
+    "ilceler": [
+      {
+        "value": 1114,
+        "ilce_adi": "AKÇADAĞ"
+      },
+      {
+        "value": 1143,
+        "ilce_adi": "ARAPGİR"
+      },
+      {
+        "value": 1148,
+        "ilce_adi": "ARGUVAN"
+      },
+      {
+        "value": 1772,
+        "ilce_adi": "BATTALGAZİ"
+      },
+      {
+        "value": 1265,
+        "ilce_adi": "DARENDE"
+      },
+      {
+        "value": 1286,
+        "ilce_adi": "DOĞANŞEHİR"
+      },
+      {
+        "value": 1914,
+        "ilce_adi": "DOĞANYOL"
+      },
+      {
+        "value": 1390,
+        "ilce_adi": "HEKİMHAN"
+      },
+      {
+        "value": 1953,
+        "ilce_adi": "KALE"
+      },
+      {
+        "value": 1969,
+        "ilce_adi": "KULUNCAK"
+      },
+      {
+        "value": 1582,
+        "ilce_adi": "PÜTÜRGE"
+      },
+      {
+        "value": 1995,
+        "ilce_adi": "YAZIHAN"
+      },
+      {
+        "value": 1729,
+        "ilce_adi": "YEŞİLYURT"
+      }
+    ]
+  },
+  {
+    "value": 45,
+    "il": "MANİSA",
+    "ilceler": [
+      {
+        "value": 1751,
+        "ilce_adi": "AHMETLİ"
+      },
+      {
+        "value": 1118,
+        "ilce_adi": "AKHİSAR"
+      },
+      {
+        "value": 1127,
+        "ilce_adi": "ALAŞEHİR"
+      },
+      {
+        "value": 1269,
+        "ilce_adi": "DEMİRCİ"
+      },
+      {
+        "value": 1793,
+        "ilce_adi": "GÖLMARMARA"
+      },
+      {
+        "value": 1362,
+        "ilce_adi": "GÖRDES"
+      },
+      {
+        "value": 1470,
+        "ilce_adi": "KIRKAĞAÇ"
+      },
+      {
+        "value": 1965,
+        "ilce_adi": "KÖPRÜBAŞI"
+      },
+      {
+        "value": 1489,
+        "ilce_adi": "KULA"
+      },
+      {
+        "value": 1590,
+        "ilce_adi": "SALİHLİ"
+      },
+      {
+        "value": 1600,
+        "ilce_adi": "SARIGÖL"
+      },
+      {
+        "value": 1606,
+        "ilce_adi": "SARUHANLI"
+      },
+      {
+        "value": 2086,
+        "ilce_adi": "ŞEHZADELER"
+      },
+      {
+        "value": 1613,
+        "ilce_adi": "SELENDİ"
+      },
+      {
+        "value": 1634,
+        "ilce_adi": "SOMA"
+      },
+      {
+        "value": 1689,
+        "ilce_adi": "TURGUTLU"
+      },
+      {
+        "value": 2087,
+        "ilce_adi": "YUNUSEMRE"
+      }
+    ]
+  },
+  {
+    "value": 47,
+    "il": "MARDİN",
+    "ilceler": [
+      {
+        "value": 2088,
+        "ilce_adi": "ARTUKLU"
+      },
+      {
+        "value": 1787,
+        "ilce_adi": "DARGEÇİT"
+      },
+      {
+        "value": 1273,
+        "ilce_adi": "DERİK"
+      },
+      {
+        "value": 1474,
+        "ilce_adi": "KIZILTEPE"
+      },
+      {
+        "value": 1519,
+        "ilce_adi": "MAZIDAĞI"
+      },
+      {
+        "value": 1526,
+        "ilce_adi": "MİDYAT"
+      },
+      {
+        "value": 1547,
+        "ilce_adi": "NUSAYBİN"
+      },
+      {
+        "value": 1564,
+        "ilce_adi": "ÖMERLİ"
+      },
+      {
+        "value": 1609,
+        "ilce_adi": "SAVUR"
+      },
+      {
+        "value": 2002,
+        "ilce_adi": "YEŞİLLİ"
+      }
+    ]
+  },
+  {
+    "value": 33,
+    "il": "MERSİN",
+    "ilceler": [
+      {
+        "value": 2064,
+        "ilce_adi": "AKDENİZ"
+      },
+      {
+        "value": 1135,
+        "ilce_adi": "ANAMUR"
+      },
+      {
+        "value": 1766,
+        "ilce_adi": "AYDINCIK"
+      },
+      {
+        "value": 1779,
+        "ilce_adi": "BOZYAZI"
+      },
+      {
+        "value": 1892,
+        "ilce_adi": "ÇAMLIYAYLA"
+      },
+      {
+        "value": 1311,
+        "ilce_adi": "ERDEMLİ"
+      },
+      {
+        "value": 1366,
+        "ilce_adi": "GÜLNAR"
+      },
+      {
+        "value": 2065,
+        "ilce_adi": "MEZİTLİ"
+      },
+      {
+        "value": 1536,
+        "ilce_adi": "MUT"
+      },
+      {
+        "value": 1621,
+        "ilce_adi": "SİLİFKE"
+      },
+      {
+        "value": 1665,
+        "ilce_adi": "TARSUS"
+      },
+      {
+        "value": 2066,
+        "ilce_adi": "TOROSLAR"
+      },
+      {
+        "value": 2067,
+        "ilce_adi": "YENİŞEHİR"
+      }
+    ]
+  },
+  {
+    "value": 48,
+    "il": "MUĞLA",
+    "ilceler": [
+      {
+        "value": 1197,
+        "ilce_adi": "BODRUM"
+      },
+      {
+        "value": 1742,
+        "ilce_adi": "DALAMAN"
+      },
+      {
+        "value": 1266,
+        "ilce_adi": "DATÇA"
+      },
+      {
+        "value": 1331,
+        "ilce_adi": "FETHİYE"
+      },
+      {
+        "value": 1958,
+        "ilce_adi": "KAVAKLIDERE"
+      },
+      {
+        "value": 1488,
+        "ilce_adi": "KÖYCEĞİZ"
+      },
+      {
+        "value": 1517,
+        "ilce_adi": "MARMARİS"
+      },
+      {
+        "value": 2089,
+        "ilce_adi": "MENTEŞE"
+      },
+      {
+        "value": 1528,
+        "ilce_adi": "MİLAS"
+      },
+      {
+        "value": 1831,
+        "ilce_adi": "ORTACA"
+      },
+      {
+        "value": 2090,
+        "ilce_adi": "SEYDİKEMER"
+      },
+      {
+        "value": 1695,
+        "ilce_adi": "ULA"
+      },
+      {
+        "value": 1719,
+        "ilce_adi": "YATAĞAN"
+      }
+    ]
+  },
+  {
+    "value": 49,
+    "il": "MUŞ",
+    "ilceler": [
+      {
+        "value": 1213,
+        "ilce_adi": "BULANIK"
+      },
+      {
+        "value": 1801,
+        "ilce_adi": "HASKÖY"
+      },
+      {
+        "value": 1964,
+        "ilce_adi": "KORKUT"
+      },
+      {
+        "value": 1510,
+        "ilce_adi": "MALAZGİRT"
+      },
+      {
+        "value": 1534,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1711,
+        "ilce_adi": "VARTO"
+      }
+    ]
+  },
+  {
+    "value": 50,
+    "il": "NEVŞEHİR",
+    "ilceler": [
+      {
+        "value": 1749,
+        "ilce_adi": "ACIGÖL"
+      },
+      {
+        "value": 1155,
+        "ilce_adi": "AVANOS"
+      },
+      {
+        "value": 1274,
+        "ilce_adi": "DERİNKUYU"
+      },
+      {
+        "value": 1367,
+        "ilce_adi": "GÜLŞEHİR"
+      },
+      {
+        "value": 1374,
+        "ilce_adi": "HACIBEKTAŞ"
+      },
+      {
+        "value": 1485,
+        "ilce_adi": "KOZAKLI"
+      },
+      {
+        "value": 1543,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1707,
+        "ilce_adi": "ÜRGÜP"
+      }
+    ]
+  },
+  {
+    "value": 51,
+    "il": "NİĞDE",
+    "ilceler": [
+      {
+        "value": 1876,
+        "ilce_adi": "ALTUNHİSAR"
+      },
+      {
+        "value": 1201,
+        "ilce_adi": "BOR"
+      },
+      {
+        "value": 1225,
+        "ilce_adi": "ÇAMARDI"
+      },
+      {
+        "value": 1904,
+        "ilce_adi": "ÇİFTLİK"
+      },
+      {
+        "value": 1544,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1700,
+        "ilce_adi": "ULUKIŞLA"
+      }
+    ]
+  },
+  {
+    "value": 52,
+    "il": "ORDU",
+    "ilceler": [
+      {
+        "value": 1119,
+        "ilce_adi": "AKKUŞ"
+      },
+      {
+        "value": 2103,
+        "ilce_adi": "ALTINORDU"
+      },
+      {
+        "value": 1158,
+        "ilce_adi": "AYBASTI"
+      },
+      {
+        "value": 1891,
+        "ilce_adi": "ÇAMAŞ"
+      },
+      {
+        "value": 1897,
+        "ilce_adi": "ÇATALPINAR"
+      },
+      {
+        "value": 1900,
+        "ilce_adi": "ÇAYBAŞI"
+      },
+      {
+        "value": 1328,
+        "ilce_adi": "FATSA"
+      },
+      {
+        "value": 1358,
+        "ilce_adi": "GÖLKÖY"
+      },
+      {
+        "value": 1795,
+        "ilce_adi": "GÜLYALI"
+      },
+      {
+        "value": 1797,
+        "ilce_adi": "GÜRGENTEPE"
+      },
+      {
+        "value": 1947,
+        "ilce_adi": "İKİZCE"
+      },
+      {
+        "value": 1950,
+        "ilce_adi": "KABADÜZ"
+      },
+      {
+        "value": 1951,
+        "ilce_adi": "KABATAŞ"
+      },
+      {
+        "value": 1482,
+        "ilce_adi": "KORGAN"
+      },
+      {
+        "value": 1493,
+        "ilce_adi": "KUMRU"
+      },
+      {
+        "value": 1525,
+        "ilce_adi": "MESUDİYE"
+      },
+      {
+        "value": 1573,
+        "ilce_adi": "PERŞEMBE"
+      },
+      {
+        "value": 1696,
+        "ilce_adi": "ULUBEY"
+      },
+      {
+        "value": 1706,
+        "ilce_adi": "ÜNYE"
+      }
+    ]
+  },
+  {
+    "value": 80,
+    "il": "OSMANİYE",
+    "ilceler": [
+      {
+        "value": 1165,
+        "ilce_adi": "BAHÇE"
+      },
+      {
+        "value": 1743,
+        "ilce_adi": "DÜZİÇİ"
+      },
+      {
+        "value": 2027,
+        "ilce_adi": "HASANBEYLİ"
+      },
+      {
+        "value": 1423,
+        "ilce_adi": "KADİRLİ"
+      },
+      {
+        "value": 1560,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 2028,
+        "ilce_adi": "SUMBAS"
+      },
+      {
+        "value": 2029,
+        "ilce_adi": "TOPRAKKALE"
+      }
+    ]
+  },
+  {
+    "value": 53,
+    "il": "RİZE",
+    "ilceler": [
+      {
+        "value": 1146,
+        "ilce_adi": "ARDEŞEN"
+      },
+      {
+        "value": 1228,
+        "ilce_adi": "ÇAMLIHEMŞİN"
+      },
+      {
+        "value": 1241,
+        "ilce_adi": "ÇAYELİ"
+      },
+      {
+        "value": 1908,
+        "ilce_adi": "DEREPAZARI"
+      },
+      {
+        "value": 1332,
+        "ilce_adi": "FINDIKLI"
+      },
+      {
+        "value": 1796,
+        "ilce_adi": "GÜNEYSU"
+      },
+      {
+        "value": 1943,
+        "ilce_adi": "HEMŞİN"
+      },
+      {
+        "value": 1405,
+        "ilce_adi": "İKİZDERE"
+      },
+      {
+        "value": 1949,
+        "ilce_adi": "İYİDERE"
+      },
+      {
+        "value": 1428,
+        "ilce_adi": "KALKANDERE"
+      },
+      {
+        "value": 1586,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1569,
+        "ilce_adi": "PAZAR"
+      }
+    ]
+  },
+  {
+    "value": 54,
+    "il": "SAKARYA",
+    "ilceler": [
+      {
+        "value": 2068,
+        "ilce_adi": "ADAPAZARI"
+      },
+      {
+        "value": 1123,
+        "ilce_adi": "AKYAZI"
+      },
+      {
+        "value": 2069,
+        "ilce_adi": "ARİFİYE"
+      },
+      {
+        "value": 2070,
+        "ilce_adi": "ERENLER"
+      },
+      {
+        "value": 1925,
+        "ilce_adi": "FERİZLİ"
+      },
+      {
+        "value": 1351,
+        "ilce_adi": "GEYVE"
+      },
+      {
+        "value": 1391,
+        "ilce_adi": "HENDEK"
+      },
+      {
+        "value": 1955,
+        "ilce_adi": "KARAPÜRÇEK"
+      },
+      {
+        "value": 1442,
+        "ilce_adi": "KARASU"
+      },
+      {
+        "value": 1453,
+        "ilce_adi": "KAYNARCA"
+      },
+      {
+        "value": 1818,
+        "ilce_adi": "KOCAALİ"
+      },
+      {
+        "value": 1833,
+        "ilce_adi": "PAMUKOVA"
+      },
+      {
+        "value": 1595,
+        "ilce_adi": "SAPANCA"
+      },
+      {
+        "value": 2071,
+        "ilce_adi": "SERDİVAN"
+      },
+      {
+        "value": 1986,
+        "ilce_adi": "SÖĞÜTLÜ"
+      },
+      {
+        "value": 1847,
+        "ilce_adi": "TARAKLI"
+      }
+    ]
+  },
+  {
+    "value": 55,
+    "il": "SAMSUN",
+    "ilceler": [
+      {
+        "value": 1830,
+        "ilce_adi": "19MAYIS"
+      },
+      {
+        "value": 1125,
+        "ilce_adi": "ALAÇAM"
+      },
+      {
+        "value": 1763,
+        "ilce_adi": "ASARCIK"
+      },
+      {
+        "value": 2072,
+        "ilce_adi": "ATAKUM"
+      },
+      {
+        "value": 1879,
+        "ilce_adi": "AYVACIK"
+      },
+      {
+        "value": 1164,
+        "ilce_adi": "BAFRA"
+      },
+      {
+        "value": 2073,
+        "ilce_adi": "CANİK"
+      },
+      {
+        "value": 1234,
+        "ilce_adi": "ÇARŞAMBA"
+      },
+      {
+        "value": 1386,
+        "ilce_adi": "HAVZA"
+      },
+      {
+        "value": 2074,
+        "ilce_adi": "İLKADIM"
+      },
+      {
+        "value": 1452,
+        "ilce_adi": "KAVAK"
+      },
+      {
+        "value": 1501,
+        "ilce_adi": "LADİK"
+      },
+      {
+        "value": 1838,
+        "ilce_adi": "SALIPAZARI"
+      },
+      {
+        "value": 1849,
+        "ilce_adi": "TEKKEKÖY"
+      },
+      {
+        "value": 1676,
+        "ilce_adi": "TERME"
+      },
+      {
+        "value": 1712,
+        "ilce_adi": "VEZİRKÖPRÜ"
+      },
+      {
+        "value": 1993,
+        "ilce_adi": "YAKAKENT"
+      }
+    ]
+  },
+  {
+    "value": 63,
+    "il": "ŞANLIURFA",
+    "ilceler": [
+      {
+        "value": 1115,
+        "ilce_adi": "AKÇAKALE"
+      },
+      {
+        "value": 1194,
+        "ilce_adi": "BİRECİK"
+      },
+      {
+        "value": 1209,
+        "ilce_adi": "BOZOVA"
+      },
+      {
+        "value": 1220,
+        "ilce_adi": "CEYLANPINAR"
+      },
+      {
+        "value": 2091,
+        "ilce_adi": "EYYÜBİYE"
+      },
+      {
+        "value": 1378,
+        "ilce_adi": "HALFETİ"
+      },
+      {
+        "value": 2092,
+        "ilce_adi": "HALİLİYE"
+      },
+      {
+        "value": 1800,
+        "ilce_adi": "HARRAN"
+      },
+      {
+        "value": 1393,
+        "ilce_adi": "HİLVAN"
+      },
+      {
+        "value": 2093,
+        "ilce_adi": "KARAKÖPRÜ"
+      },
+      {
+        "value": 1630,
+        "ilce_adi": "SİVEREK"
+      },
+      {
+        "value": 1643,
+        "ilce_adi": "SURUÇ"
+      },
+      {
+        "value": 1713,
+        "ilce_adi": "VİRANŞEHİR"
+      }
+    ]
+  },
+  {
+    "value": 56,
+    "il": "SİİRT",
+    "ilceler": [
+      {
+        "value": 1179,
+        "ilce_adi": "BAYKAN"
+      },
+      {
+        "value": 1317,
+        "ilce_adi": "ERUH"
+      },
+      {
+        "value": 1495,
+        "ilce_adi": "KURTALAN"
+      },
+      {
+        "value": 1620,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1575,
+        "ilce_adi": "PERVARİ"
+      },
+      {
+        "value": 1662,
+        "ilce_adi": "ŞİRVAN"
+      },
+      {
+        "value": 1878,
+        "ilce_adi": "TİLLO"
+      }
+    ]
+  },
+  {
+    "value": 57,
+    "il": "SİNOP",
+    "ilceler": [
+      {
+        "value": 1156,
+        "ilce_adi": "AYANCIK"
+      },
+      {
+        "value": 1204,
+        "ilce_adi": "BOYABAT"
+      },
+      {
+        "value": 1910,
+        "ilce_adi": "DİKMEN"
+      },
+      {
+        "value": 1290,
+        "ilce_adi": "DURAĞAN"
+      },
+      {
+        "value": 1314,
+        "ilce_adi": "ERFELEK"
+      },
+      {
+        "value": 1349,
+        "ilce_adi": "GERZE"
+      },
+      {
+        "value": 1627,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1981,
+        "ilce_adi": "SARAYDÜZÜ"
+      },
+      {
+        "value": 1693,
+        "ilce_adi": "TÜRKELİ"
+      }
+    ]
+  },
+  {
+    "value": 73,
+    "il": "ŞIRNAK",
+    "ilceler": [
+      {
+        "value": 1189,
+        "ilce_adi": "BEYTÜŞŞEBAP"
+      },
+      {
+        "value": 1223,
+        "ilce_adi": "CİZRE"
+      },
+      {
+        "value": 1931,
+        "ilce_adi": "GÜÇLÜKONAK"
+      },
+      {
+        "value": 1403,
+        "ilce_adi": "İDİL"
+      },
+      {
+        "value": 1661,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1623,
+        "ilce_adi": "SİLOPİ"
+      },
+      {
+        "value": 1698,
+        "ilce_adi": "ULUDERE"
+      }
+    ]
+  },
+  {
+    "value": 58,
+    "il": "SİVAS",
+    "ilceler": [
+      {
+        "value": 1870,
+        "ilce_adi": "AKINCILAR"
+      },
+      {
+        "value": 1875,
+        "ilce_adi": "ALTINYAYLA"
+      },
+      {
+        "value": 1282,
+        "ilce_adi": "DİVRİĞİ"
+      },
+      {
+        "value": 1913,
+        "ilce_adi": "DOĞANŞAR"
+      },
+      {
+        "value": 1342,
+        "ilce_adi": "GEMEREK"
+      },
+      {
+        "value": 1927,
+        "ilce_adi": "GÖLOVA"
+      },
+      {
+        "value": 1373,
+        "ilce_adi": "GÜRÜN"
+      },
+      {
+        "value": 1376,
+        "ilce_adi": "HAFİK"
+      },
+      {
+        "value": 1407,
+        "ilce_adi": "İMRANLI"
+      },
+      {
+        "value": 1431,
+        "ilce_adi": "KANGAL"
+      },
+      {
+        "value": 1484,
+        "ilce_adi": "KOYULHİSAR"
+      },
+      {
+        "value": 1628,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1650,
+        "ilce_adi": "ŞARKIŞLA"
+      },
+      {
+        "value": 1646,
+        "ilce_adi": "SUŞEHRİ"
+      },
+      {
+        "value": 1991,
+        "ilce_adi": "ULAŞ"
+      },
+      {
+        "value": 1731,
+        "ilce_adi": "YILDIZELİ"
+      },
+      {
+        "value": 1738,
+        "ilce_adi": "ZARA"
+      }
+    ]
+  },
+  {
+    "value": 59,
+    "il": "TEKİRDAĞ",
+    "ilceler": [
+      {
+        "value": 1250,
+        "ilce_adi": "ÇERKEZKÖY"
+      },
+      {
+        "value": 1258,
+        "ilce_adi": "ÇORLU"
+      },
+      {
+        "value": 2094,
+        "ilce_adi": "ERGENE"
+      },
+      {
+        "value": 1388,
+        "ilce_adi": "HAYRABOLU"
+      },
+      {
+        "value": 2095,
+        "ilce_adi": "KAPAKLI"
+      },
+      {
+        "value": 1511,
+        "ilce_adi": "MALKARA"
+      },
+      {
+        "value": 1825,
+        "ilce_adi": "MARMARAEREĞLİSİ"
+      },
+      {
+        "value": 1538,
+        "ilce_adi": "MURATLI"
+      },
+      {
+        "value": 1596,
+        "ilce_adi": "SARAY"
+      },
+      {
+        "value": 1652,
+        "ilce_adi": "ŞARKÖY"
+      },
+      {
+        "value": 2096,
+        "ilce_adi": "SÜLEYMANPAŞA"
+      }
+    ]
+  },
+  {
+    "value": 60,
+    "il": "TOKAT",
+    "ilceler": [
+      {
+        "value": 1129,
+        "ilce_adi": "ALMUS"
+      },
+      {
+        "value": 1151,
+        "ilce_adi": "ARTOVA"
+      },
+      {
+        "value": 1883,
+        "ilce_adi": "BAŞÇİFTLİK"
+      },
+      {
+        "value": 1308,
+        "ilce_adi": "ERBAA"
+      },
+      {
+        "value": 1679,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1545,
+        "ilce_adi": "NİKSAR"
+      },
+      {
+        "value": 1834,
+        "ilce_adi": "PAZAR"
+      },
+      {
+        "value": 1584,
+        "ilce_adi": "REŞADİYE"
+      },
+      {
+        "value": 1987,
+        "ilce_adi": "SULUSARAY"
+      },
+      {
+        "value": 1690,
+        "ilce_adi": "TURHAL"
+      },
+      {
+        "value": 1858,
+        "ilce_adi": "YEŞİLYURT"
+      },
+      {
+        "value": 1740,
+        "ilce_adi": "ZİLE"
+      }
+    ]
+  },
+  {
+    "value": 61,
+    "il": "TRABZON",
+    "ilceler": [
+      {
+        "value": 1113,
+        "ilce_adi": "AKÇAABAT"
+      },
+      {
+        "value": 1141,
+        "ilce_adi": "ARAKLI"
+      },
+      {
+        "value": 1150,
+        "ilce_adi": "ARSİN"
+      },
+      {
+        "value": 1775,
+        "ilce_adi": "BEŞİKDÜZÜ"
+      },
+      {
+        "value": 1896,
+        "ilce_adi": "ÇARŞIBAŞI"
+      },
+      {
+        "value": 1244,
+        "ilce_adi": "ÇAYKARA"
+      },
+      {
+        "value": 1909,
+        "ilce_adi": "DERNEKPAZARI"
+      },
+      {
+        "value": 1917,
+        "ilce_adi": "DÜZKÖY"
+      },
+      {
+        "value": 1942,
+        "ilce_adi": "HAYRAT"
+      },
+      {
+        "value": 1966,
+        "ilce_adi": "KÖPRÜBAŞI"
+      },
+      {
+        "value": 1507,
+        "ilce_adi": "MAÇKA"
+      },
+      {
+        "value": 1548,
+        "ilce_adi": "OF"
+      },
+      {
+        "value": 2097,
+        "ilce_adi": "ORTAHİSAR"
+      },
+      {
+        "value": 1842,
+        "ilce_adi": "ŞALPAZARI"
+      },
+      {
+        "value": 1647,
+        "ilce_adi": "SÜRMENE"
+      },
+      {
+        "value": 1681,
+        "ilce_adi": "TONYA"
+      },
+      {
+        "value": 1709,
+        "ilce_adi": "VAKFIKEBİR"
+      },
+      {
+        "value": 1732,
+        "ilce_adi": "YOMRA"
+      }
+    ]
+  },
+  {
+    "value": 62,
+    "il": "TUNCELİ",
+    "ilceler": [
+      {
+        "value": 1247,
+        "ilce_adi": "ÇEMİŞGEZEK"
+      },
+      {
+        "value": 1397,
+        "ilce_adi": "HOZAT"
+      },
+      {
+        "value": 1518,
+        "ilce_adi": "MAZGİRT"
+      },
+      {
+        "value": 1688,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1541,
+        "ilce_adi": "NAZIMİYE"
+      },
+      {
+        "value": 1562,
+        "ilce_adi": "OVACIK"
+      },
+      {
+        "value": 1574,
+        "ilce_adi": "PERTEK"
+      },
+      {
+        "value": 1581,
+        "ilce_adi": "PÜLÜMÜR"
+      }
+    ]
+  },
+  {
+    "value": 64,
+    "il": "UŞAK",
+    "ilceler": [
+      {
+        "value": 1170,
+        "ilce_adi": "BANAZ"
+      },
+      {
+        "value": 1323,
+        "ilce_adi": "EŞME"
+      },
+      {
+        "value": 1436,
+        "ilce_adi": "KARAHALLI"
+      },
+      {
+        "value": 1704,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1629,
+        "ilce_adi": "SİVASLI"
+      },
+      {
+        "value": 1697,
+        "ilce_adi": "ULUBEY"
+      }
+    ]
+  },
+  {
+    "value": 65,
+    "il": "VAN",
+    "ilceler": [
+      {
+        "value": 1770,
+        "ilce_adi": "BAHÇESARAY"
+      },
+      {
+        "value": 1175,
+        "ilce_adi": "BAŞKALE"
+      },
+      {
+        "value": 1786,
+        "ilce_adi": "ÇALDIRAN"
+      },
+      {
+        "value": 1236,
+        "ilce_adi": "ÇATAK"
+      },
+      {
+        "value": 1918,
+        "ilce_adi": "EDREMİT"
+      },
+      {
+        "value": 1309,
+        "ilce_adi": "ERCİŞ"
+      },
+      {
+        "value": 1350,
+        "ilce_adi": "GEVAŞ"
+      },
+      {
+        "value": 1372,
+        "ilce_adi": "GÜRPINAR"
+      },
+      {
+        "value": 2098,
+        "ilce_adi": "İPEKYOLU"
+      },
+      {
+        "value": 1533,
+        "ilce_adi": "MURADİYE"
+      },
+      {
+        "value": 1565,
+        "ilce_adi": "ÖZALP"
+      },
+      {
+        "value": 1980,
+        "ilce_adi": "SARAY"
+      },
+      {
+        "value": 2099,
+        "ilce_adi": "TUŞBA"
+      }
+    ]
+  },
+  {
+    "value": 77,
+    "il": "YALOVA",
+    "ilceler": [
+      {
+        "value": 2019,
+        "ilce_adi": "ALTINOVA"
+      },
+      {
+        "value": 2020,
+        "ilce_adi": "ARMUTLU"
+      },
+      {
+        "value": 2022,
+        "ilce_adi": "ÇİFTLİKKÖY"
+      },
+      {
+        "value": 2021,
+        "ilce_adi": "ÇINARCIK"
+      },
+      {
+        "value": 1716,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 2026,
+        "ilce_adi": "TERMAL"
+      }
+    ]
+  },
+  {
+    "value": 66,
+    "il": "YOZGAT",
+    "ilceler": [
+      {
+        "value": 1117,
+        "ilce_adi": "AKDAĞMADENİ"
+      },
+      {
+        "value": 1877,
+        "ilce_adi": "AYDINCIK"
+      },
+      {
+        "value": 1198,
+        "ilce_adi": "BOĞAZLIYAN"
+      },
+      {
+        "value": 1895,
+        "ilce_adi": "ÇANDIR"
+      },
+      {
+        "value": 1242,
+        "ilce_adi": "ÇAYIRALAN"
+      },
+      {
+        "value": 1245,
+        "ilce_adi": "ÇEKEREK"
+      },
+      {
+        "value": 1952,
+        "ilce_adi": "KADIŞEHRİ"
+      },
+      {
+        "value": 1733,
+        "ilce_adi": "MERKEZ"
+      },
+      {
+        "value": 1982,
+        "ilce_adi": "SARAYKENT"
+      },
+      {
+        "value": 1602,
+        "ilce_adi": "SARIKAYA"
+      },
+      {
+        "value": 1655,
+        "ilce_adi": "ŞEFAATLİ"
+      },
+      {
+        "value": 1635,
+        "ilce_adi": "SORGUN"
+      },
+      {
+        "value": 1998,
+        "ilce_adi": "YENİFAKILI"
+      },
+      {
+        "value": 1726,
+        "ilce_adi": "YERKÖY"
+      }
+    ]
+  },
+  {
+    "value": 67,
+    "il": "ZONGULDAK",
+    "ilceler": [
+      {
+        "value": 1758,
+        "ilce_adi": "ALAPLI"
+      },
+      {
+        "value": 1240,
+        "ilce_adi": "ÇAYCUMA"
+      },
+      {
+        "value": 1276,
+        "ilce_adi": "DEVREK"
+      },
+      {
+        "value": 1313,
+        "ilce_adi": "EREĞLİ"
+      },
+      {
+        "value": 1926,
+        "ilce_adi": "GÖKÇEBEY"
+      },
+      {
+        "value": 2100,
+        "ilce_adi": "KİLİMLİ"
+      },
+      {
+        "value": 2101,
+        "ilce_adi": "KOZLU"
+      },
+      {
+        "value": 1741,
+        "ilce_adi": "MERKEZ"
+      }
+    ]
+  }
+]
